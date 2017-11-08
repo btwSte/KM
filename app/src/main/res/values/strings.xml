@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KM</string>
+
+    <string-array name="mes">
+        <item>JANEIRO</item>
+        <item>FEVEREIRO</item>
+        <item>MARÇO</item>
+        <item>ABRIL</item>
+        <item>MAIO</item>
+        <item>JUNHO</item>
+        <item>JULHO</item>
+        <item>AGOSTO</item>
+        <item>SETEMBRO</item>
+        <item>OUTUBRO</item>
+        <item>NOVEMBRO</item>
+        <item>DEZEMBRO</item>
+    </string-array>
+
+</resources>
